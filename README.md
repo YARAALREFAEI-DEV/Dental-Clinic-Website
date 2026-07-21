@@ -17,5 +17,5 @@ Responsive Web Design
 
 🎯 Project Goal
 
-Creating a premium front-end website that combines modern design, usability, and interactive experiences for a dental clinic.
+Creating a front-end website that combines modern design, usability, and interactive experiences for a dental clinic.
 
