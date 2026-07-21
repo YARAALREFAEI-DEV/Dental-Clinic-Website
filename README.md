@@ -1,5 +1,5 @@
 🦷 SmileCare Dental Clinic Website
-
+<img width="1902" height="857" alt="dentalSite" src="https://github.com/user-attachments/assets/a5cfe605-8aaa-4eb7-ad81-5bd78f2d1c81" />
 A modern and responsive Front-End Dental Clinic Website built to deliver a professional healthcare experience with a clean UI, smooth interactions, and user-friendly design.
 
 🚀 Project Improvements & Development Achievements
